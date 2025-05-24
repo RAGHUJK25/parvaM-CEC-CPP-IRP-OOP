@@ -18,17 +18,22 @@ class Bank{
         cout << "Customer Name: " << custName << endl;
         cout << "Customer email: " << custEmail << endl;
     }
-
+    //setter
     void AddBalance(int account,int Ammount){
         balance += Ammount;
         cout << "the Ammount has been Deposited successfully" << endl;
     }
-
+     //setter
     void WithdrawAmmount(int account,int Ammount){
+        if(Ammount <= balance){
         balance -= Ammount;
         cout << "the Ammount has been Withdrawed successfully" << endl;
+        }
+        else{
+            cout << "Insufficient Balance! Cannot withdraw" << endl;
+        }
     }   
-
+     //getter
     void CheckBalance(){
         cout << "Bank Balance: " << balance << endl;
     }
