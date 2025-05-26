@@ -63,5 +63,6 @@ int main(){
     cin>> Ammount;
 
     cust1.WithdrawAmmount(AccountNo, Ammount);
+
     cust1.CheckBalance();
 }
