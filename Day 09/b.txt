@@ -1,0 +1,1 @@
+written the file using another user Defined object: fout.

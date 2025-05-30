@@ -1,0 +1,22 @@
+Car Details are follows: 
+Car Brand: aDodge
+Car Model: Challenger
+Car Variant: Hellcat
+Luanch Year: 2024
+Offer Price: Rs.150000000
+Car hs this Features:
+	1 . sdfhj
+	2 . sdfg
+----------------------------------------
+Car Details are follows: 
+Car Brand: Audi
+Car Model: Q6
+Car Variant: petrol
+Luanch Year: 2010
+Offer Price: Rs.1500000
+Car hs this Features:
+	1 . sdfg
+	2 . sdgsdg
+	3 . sgds
+	4 . sdg
+----------------------------------------
